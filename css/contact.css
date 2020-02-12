@@ -48,7 +48,13 @@
 
 }
 
-.linked-in, .git-hub {
+.linked-in {
+    width: 88px;
+    height: 73px;
+    margin-top: 4px;
+}
+
+.git-hub {
     width: 88px;
     height: 73px;
     margin-top: 4px;
@@ -59,6 +65,10 @@
     height: 100%;
 }
 
+.GH {
+    width: 100%;
+    height: 100%;
+} 
 .flex-container  {
     display: flex;
     flex-direction: column;
