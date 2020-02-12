@@ -1,0 +1,9 @@
+#footer-css {
+    background-image: linear-gradient(to right, lightgray 0%, grey 50%, black 100%);
+    margin-bottom: 0;
+}
+
+.mySmall {
+    padding-top: 8px;
+}
+
