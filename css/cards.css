@@ -37,12 +37,12 @@
 
 .card1 {
     /* background-color: darkseagreen; */
-    background-image: linear-gradient(to right,darkseagreen 0%,green 100%);
+    background-image: linear-gradient(to right,rgb(207,169,71) 0%,rgb(124, 91, 6) 100%);
     /* z-index: -1; */
 }
 
 .card2 {
-    background-image: linear-gradient(to left,lightblue 0%,darkblue 100%);
+    background-image: linear-gradient(to right,rgb(207,169,71) 0%,rgb(124, 91, 6) 100%);
 }
 
 .card3 {
