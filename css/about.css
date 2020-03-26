@@ -29,11 +29,11 @@ h3 {
 }
 
 #myBio {
-    background-image: linear-gradient(to right,lightblue 0%,red 100%);
+    background-image: linear-gradient(to right,lightblue 0%,orange 75%);
 }
 
 #myTech {
-    background-image: linear-gradient(to left,lightblue 0%,red 100%);
+    background-image: linear-gradient(to left,lightblue 0%,orange 75%);
 }
 
 
