@@ -3,7 +3,11 @@
     margin-bottom: 0;
 }
 
-.mySmall {
+p.mySmall {
     padding-top: 8px;
+    color: black;
 }
 
+#text {
+    color: black;
+}
